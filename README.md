@@ -1,2 +1,4 @@
 # Theory-and-Concepts
-Information about programming and computer science
+## Content
+
+- [BitMasks](https://github.com/LeakedByteBuster/Theory-and-Concepts/blob/main/BitsMasks.md)
