@@ -1,8 +1,8 @@
 # Index
-- [Complexity](https://github.com/LeakedByteBuster/Theory-and-Concepts/blob/main/Complexity.md#complexity)
-  - [Type Of Complexity](https://github.com/LeakedByteBuster/Theory-and-Concepts/blob/main/Complexity.md#type-of-complexity)
-  - [Calculation Of Complexity](https://github.com/LeakedByteBuster/Theory-and-Concepts/blob/main/Complexity.md#calculation-of-complexity)
-  - [SalesMan Problem O(n!)](https://github.com/LeakedByteBuster/Theory-and-Concepts/blob/main/Complexity.md#salesman-problem-o(n!))
+- [Complexity](#complexity)
+  - [Type Of Complexity](#type-of-complexity)
+  - [Calculation Of Complexity](#calculation-of-complexity)
+  - [SalesMan Problem O(n!)](#salesman-problem-o(n!))
 
 # Complexity
 
