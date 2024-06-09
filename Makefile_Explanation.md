@@ -116,18 +116,18 @@ instead of by their targets. (i.e. $(OBJECTS) = libft.h
 
 
 #-----------------------------------------------------------------------------
-
-#-----------------------------------------------------------------------------
-#Makefile Conventions :
-#https://www.gnu.org/software/make/manual/html_node/Makefile-Conventions.html#Makefile-Conventions
-
-#Summary of Options :
-#https://www.gnu.org/software/make/manual/html_node/Options-Summary.html#Options-Summary
-
- #Special Built-in Target Names :
- #https://www.gnu.org/software/make/manual/html_node/Special-Targets.html#Special-Targets
-
-#Index of Concepts :
-#https://www.gnu.org/software/make/manual/html_node/Concept-Index.html#Concept-Index
-#-----------------------------------------------------------------------------
 ```
+
+## Ressources :
+
+### Makefile Conventions :
+- https://www.gnu.org/software/make/manual/html_node/Makefile-Conventions.html#Makefile-Conventions
+
+### Summary of Options :
+- https://www.gnu.org/software/make/manual/html_node/Options-Summary.html#Options-Summary
+
+### Special Built-in Target Names :
+- https://www.gnu.org/software/make/manual/html_node/Special-Targets.html#Special-Targets
+
+### Index of Concepts :
+- https://www.gnu.org/software/make/manual/html_node/Concept-Index.html#Concept-Index
