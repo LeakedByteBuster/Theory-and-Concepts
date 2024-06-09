@@ -2,7 +2,7 @@
 - [Complexity](#complexity)
   - [Type Of Complexity](#type-of-complexity)
   - [Calculation Of Complexity](#calculation-of-complexity)
-  - [SalesMan Problem O(n!)](#salesman-problem-o(n!))
+  - [SalesMan Problem O(n!)](#salesman-problem-on)
 
 # Complexity
 
