@@ -1,3 +1,22 @@
+## Bresenham's Algorithm
+
+Initialize the center point (x0, y0, z0) of the circle, the radius r,
+and the decision variable p as (x0+1)^2 + (y0+1/2)^2 - r^2.
+
+Iterate through each point on the x-axis, starting from x0 and going 
+to x0 + r. For each x value, calculate the corresponding y value using 
+the decision variable p:
+
+If p < 0, the next point is (x+1, y+1), and p = p + 2x + 3
+If p >= 0, the next point is (x+1, y), and p = p + 2x - 2y + 2
+
+Plot the point (x, y, z0) on the map.
+
+Repeat steps 2 and 3 for the other octants of the circle by reflecting 
+the points across the x and y axes.
+
+---
+
 ```md
 ** -------------------------------------------------------------
 ** --------------- 3D ------------------------------------------
@@ -88,6 +107,8 @@
 ** 7. fix leaks
 **         - type leaks a.out or leaks fdf in your shell
 ```
+
+--- 
 
 ## ressources
 https://www.youtube.com/watch?v=10P59aOgi68
