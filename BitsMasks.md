@@ -1,5 +1,12 @@
 # BitShitfting
 
+## Index
+- [Logical Operators](#logical-operators)
+- [Check value of a bit](#checking-the-value-of-a-bit)
+- [Setting bit n](#setting-the-bit-n)
+- [Clearing bit n](#clearing-bit-n)
+- [Flipping bit n](#flipping-bit-n)
+
 **BitMasks is a sequence of bits (0s and 1s) that is used to manipulate or isolate specific bits within a larger set of bits.**
 
 ## logical operators
